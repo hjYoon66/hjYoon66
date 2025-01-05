@@ -8,7 +8,10 @@
     height="120"
   />
 </a>
-  
+
+![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username={hjYoon66}&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username={hjYoon66}&show_icons=true&theme=radical)
+
 
 <!--
 **hjYoon66/hjYoon66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
