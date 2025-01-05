@@ -9,8 +9,8 @@
   />
 </a>
 
-![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username={hjYoon66}&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username={hjYoon66}&show_icons=true&theme=radical)
+![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjYoon66&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjYoon66&show_icons=true&theme=radical)
 
 
 <!--
