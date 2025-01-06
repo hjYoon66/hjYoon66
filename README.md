@@ -1,14 +1,10 @@
-## Hi there 👋
-
-
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hjYoon66"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/hjYoon66"
+  width="600"
+  height="300"
+/>
 </a>
-
 ![most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hjYoon66&layout=compact&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hjYoon66&show_icons=true&theme=radical)
 
